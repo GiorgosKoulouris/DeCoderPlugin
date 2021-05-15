@@ -1,0 +1,4 @@
+build/
+buildRelease/
+buildDebug/
+pComments.md
